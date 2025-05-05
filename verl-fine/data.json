@@ -1,0 +1,164 @@
+
+[
+  {
+    "prompt": "How does a rocket work?",
+    "response": "A rocket moves by expelling gas...",
+    "score": 8.7
+  },
+  {
+    "prompt": "Explain the theory of relativity.",
+    "response": "The theory of relativity, proposed by Albert Einstein...",
+    "score": 9.0
+  },
+  {
+    "prompt": "What is the boiling point of water?",
+    "response": "The boiling point of water is 100 degrees Celsius at sea level.",
+    "score": 8.5
+  },
+  {
+    "prompt": "Describe the process of photosynthesis.",
+    "response": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll.",
+    "score": 9.2
+  },
+  {
+    "prompt": "What is the speed of light?",
+    "response": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+    "score": 9.1
+  },
+  {
+    "prompt": "Who wrote 'To Kill a Mockingbird'?",
+    "response": "Harper Lee wrote 'To Kill a Mockingbird'.",
+    "score": 8.8
+  },
+  {
+    "prompt": "What is the largest planet in our solar system?",
+    "response": "The largest planet in our solar system is Jupiter.",
+    "score": 9.3
+  },
+  {
+    "prompt": "Explain the concept of gravity.",
+    "response": "Gravity is a force that attracts two bodies towards each other.",
+    "score": 8.9
+  },
+  {
+    "prompt": "What is the chemical formula for water?",
+    "response": "The chemical formula for water is H2O.",
+    "score": 9.4
+  },
+  {
+    "prompt": "Who painted the Mona Lisa?",
+    "response": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "score": 8.6
+  },
+  {
+    "prompt": "What is the Pythagorean theorem?",
+    "response": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides.",
+    "score": 9.0
+  },
+  {
+    "prompt": "Define photosynthesis.",
+    "response": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll.",
+    "score": 9.2
+  },
+  {
+    "prompt": "What is the capital of Japan?",
+    "response": "The capital of Japan is Tokyo.",
+    "score": 9.1
+  },
+  {
+    "prompt": "What is the square root of 16?",
+    "response": "The square root of 16 is 4.",
+    "score": 9.5
+  },
+  {
+    "prompt": "Who discovered penicillin?",
+    "response": "Penicillin was discovered by Alexander Fleming.",
+    "score": 8.7
+  },
+  {
+    "prompt": "What is the main ingredient in guacamole?",
+    "response": "The main ingredient in guacamole is avocado.",
+    "score": 9.0
+  },
+  {
+    "prompt": "What is the capital of Italy?",
+    "response": "The capital of Italy is Rome.",
+    "score": 9.3
+  },
+  {
+    "prompt": "Explain the water cycle.",
+    "response": "The water cycle describes the continuous movement of water on, above, and below the surface of the Earth.",
+    "score": 8.8
+  },
+  {
+    "prompt": "What is the largest mammal?",
+    "response": "The largest mammal is the blue whale.",
+    "score": 9.4
+  },
+  {
+    "prompt": "What is the formula for calculating area of a circle?",
+    "response": "The formula for calculating the area of a circle is A = πr², where r is the radius.",
+    "score": 9.1
+  },
+  {
+    "prompt": "Who was the first person to walk on the moon?",
+    "response": "Neil Armstrong was the first person to walk on the moon.",
+    "score": 8.9
+  },
+  {
+    "prompt": "What is the capital of Canada?",
+    "response": "The capital of Canada is Ottawa.",
+    "score": 9.2
+  },
+  {
+    "prompt": "What is the freezing point of water?",
+    "response": "The freezing point of water is 0 degrees Celsius.",
+    "score": 9.0
+  },
+  {
+    "prompt": "What is the largest ocean on Earth?",
+    "response": "The largest ocean on Earth is the Pacific Ocean.",
+    "score": 9.3
+  },
+  {
+    "prompt": "What is the capital of Australia?",
+    "response": "The capital of Australia is Canberra.",
+    "score": 8.8
+  },
+  {
+    "prompt": "What is the main language spoken in Brazil?",
+    "response": "The main language spoken in Brazil is Portuguese.",
+    "score": 9.1
+  },
+  {
+    "prompt": "What is the chemical symbol for gold?",
+    "response": "The chemical symbol for gold is Au.",
+    "score": 9.4
+  },
+  {
+    "prompt": "Who wrote '1984'?",
+    "response": "'1984' was written by George Orwell.",
+    "score": 8.6
+  },
+  {
+    "prompt": "What is the capital of Germany?",
+    "response": "The capital of Germany is Berlin.",
+    "score": 9.2
+  },
+  {
+    "prompt": "What is the process of cellular respiration?",
+    "response": "Cellular respiration is the process by which cells convert glucose and oxygen into energy, carbon dioxide, and water.",
+    "score": 8.9
+  },
+  {
+    "prompt": "What is the largest desert in the world?",
+    "response": "The largest desert in the world is the Antarctic Desert.",
+    "score": 9.0
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "response": "The capital of France is Paris.",
+    "score": 9.5
+  }
+]
+
